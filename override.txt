@@ -33,6 +33,7 @@ moreblocks:trap_glow_glass bottom moreblocks_glow_glass_detail.png
 moreblocks:trap_glow_glass sides moreblocks_glow_glass_detail.png
 moreblocks:trap_super_glow_glass bottom moreblocks_super_glow_glass_detail.png
 moreblocks:trap_super_glow_glass sides moreblocks_super_glow_glass_detail.png
+princess:rose_bush all princess_rose_bush.png
 xdecor:chair top furniture_chair_wood_top.png
 xdecor:chair bottom furniture_chair_wood_top.png
 xdecor:chair sides xdecor_chair_side.png
