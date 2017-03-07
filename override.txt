@@ -37,8 +37,15 @@ princess:rose_bush all princess_rose_bush.png
 xdecor:chair top furniture_chair_wood_top.png
 xdecor:chair bottom furniture_chair_wood_top.png
 xdecor:chair sides xdecor_chair_side.png
+xdecor:coalstone_tile back xdecor_coalstone_tile.png^[transformR90
+xdecor:coalstone_tile front xdecor_coalstone_tile.png^[transformR90
 xdecor:moonbrick all moreblocks_grey_bricks.png
 xdecor:stone_rune all moreblocks_circle_stone_bricks.png
+xdecor:stone_tile all moreblocks_stone_tile.png
 xdecor:table all furniture_table_wood_top.png
 xdecor:woodframed_glass bottom default_glass_detail.png
 xdecor:woodframed_glass sides default_glass_detail.png
+xpanes:pane top xpanes_glass_edge.png
+xpanes:pane bottom xpanes_glass_edge.png
+xpanes:pane_flat top xpanes_glass_edge.png
+xpanes:pane_flat bottom xpanes_glass_edge.png
