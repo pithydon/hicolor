@@ -34,6 +34,10 @@ moreblocks:trap_glow_glass sides moreblocks_glow_glass_detail.png
 moreblocks:trap_super_glow_glass bottom moreblocks_super_glow_glass_detail.png
 moreblocks:trap_super_glow_glass sides moreblocks_super_glow_glass_detail.png
 princess:rose_bush all princess_rose_bush.png
+stairs:stair_outer_wood top default_wood.png^(default_wood.png^[transformR90^mcstair_turntexture.png^[makealpha:255,0,255)
+stairs:stair_inner_wood top default_wood.png^(default_wood.png^[transformR90^(mcstair_turntexture.png^[transformR180)^[makealpha:255,0,255)
+stairs:stair_outer_junglewood top default_junglewood.png^(default_junglewood.png^[transformR90^mcstair_turntexture.png^[makealpha:255,0,255)
+stairs:stair_inner_junglewood top default_junglewood.png^(default_junglewood.png^[transformR90^(mcstair_turntexture.png^[transformR180)^[makealpha:255,0,255)
 xdecor:cactusbrick all moreblocks_cactus_brick.png
 xdecor:chair top furniture_chair_wood_top.png
 xdecor:chair bottom furniture_chair_wood_top.png
